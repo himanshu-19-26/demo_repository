@@ -1,3 +1,2 @@
 # demo_repository
-<br>
-this is my first repository.Author himanshu
+this is my first repository.<br>Author himanshu
